@@ -1,8 +1,8 @@
 /* --- CSS Khởi Tạo & Biến Màu --- */
 :root {
-  --primary-color: #1a531c; /* Xanh lá đậm thanh lịch */
-  --secondary-color: #f48fb1; /* Hồng cánh sen nhạt */
-  --accent-color: #e91e63; /* Hồng accent đậm */
+  --primary-color: #1a531c; 
+  --secondary-color: #f48fb1; 
+  --accent-color: #e91e63; 
   --text-color: #333;
   --bg-light: #f4f7f6;
   --white: #fff;
