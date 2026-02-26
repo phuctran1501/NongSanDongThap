@@ -1,8 +1,8 @@
 /* --- CSS Khởi Tạo & Biến Màu --- */
 :root {
-  --primary-color: #1a531c; 
-  --secondary-color: #f48fb1; 
-  --accent-color: #e91e63; 
+  --primary-color: #1a531c;
+  --secondary-color: #f48fb1;
+  --accent-color: #e91e63;
   --text-color: #333;
   --bg-light: #f4f7f6;
   --white: #fff;
@@ -453,7 +453,6 @@ footer {
   background: var(--accent-color);
 }
 
-Tin nhắn người dùng
 .message.user {
   display: flex;
   justify-content: flex-end;
