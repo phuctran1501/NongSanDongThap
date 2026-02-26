@@ -333,6 +333,7 @@ footer {
 
 .brand-track img:hover {
   filter: grayscale(0%) brightness(1);
+  cursor: pointer;
 }
 
 /* Nút chatbot */
